@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Stanislav. 16 y.o
 
 <!--
 **stas-untitled/stas-untitled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
