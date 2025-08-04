@@ -1,6 +1,8 @@
 ## Hi, I'm Stanislav.
 
-a 16 y.o. guy, who trying to understand programming
+a 17 y.o. guy, who trying to understand programming
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stas-untitled)
 
 <!--
 **stas-untitled/stas-untitled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
