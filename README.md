@@ -3,6 +3,7 @@
 a 17 y.o. guy, who trying to understand programming
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stas-untitled)
+
 ![stas-untitled](https://count.getloli.com/get/@stas-untitled)
 
 <!--
